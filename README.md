@@ -15,7 +15,7 @@ An English fan translation of **Shining Wind** (SLPM-66671) for the PlayStation 
 
 The goal is to make the game fully playable in English while respecting each character's tone and voice, and keeping text inside its boxes (no cut-off lines, overlaps or broken glyphs). Translation is done from the Japanese original; character and term names follow the official English edition of the anime *Shining Tears X Wind* and the community guide where available, always checked against the Japanese.
 
-**Download:** no release yet. The first downloadable patch will appear on the [Releases](https://github.com/Nrlemo/shining-wind-en-patch/releases) page.
+**Download:** [Beta 1 (pre-release)](https://github.com/Nrlemo/shining-wind-en-patch/releases/tag/beta1) · [All releases](https://github.com/Nrlemo/shining-wind-en-patch/releases). Beta 1 is a test build: it has been checked only by an automated patch round-trip, not played end to end, and not tested on real hardware.
 
 ## Project status (as of 2026-11-22)
 
@@ -77,8 +77,8 @@ Check both ISOs with any MD5 tool, or with the included helper: `scripts/verify_
 | File | MD5 |
 |---|---|
 | Base: *Shining Wind (Japan)* ISO | `8b8cea857616aa6f189e38a4161f95ba` (pending cross-check with Redump) |
-| Patched ISO (result) | TBD at release |
-| `.xdelta` patch | TBD at release |
+| Patched ISO (result), Beta 1 | `2e17a1653ba1088498f8e753c7baed5c` |
+| `shining-wind-en.xdelta` (Beta 1, 4,640,315 B) | `0b67d353b8439f499e4e12b6d6a1b040` |
 
 **5. Play**
 
@@ -102,7 +102,7 @@ Helpful details: patch version, the **MD5 of your patched ISO**, how you ran it 
 
 ## FAQ
 
-**Can I download the patch now?** No. There is no release yet.
+**Can I download the patch now?** Yes: Beta 1 is on the Releases page. It is a test build, so expect untranslated or badly fitted text.
 
 **Do you distribute the ISO?** No, and please do not ask. You need your own legitimate dump.
 
