@@ -5,7 +5,7 @@
 ![Status: work in progress](https://img.shields.io/badge/status-work%20in%20progress%20(draft)-orange)
 ![Font: VWF](https://img.shields.io/badge/font-variable--width%20(VWF)-purple)
 [![Latest release](https://img.shields.io/github/v/release/Nrlemo/shining-wind-en-patch?include_prereleases&label=release&color=yellow&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en-patch/releases)
-[![xdelta downloads](https://img.shields.io/github/downloads/Nrlemo/shining-wind-en-patch/latest/shining-wind-en.xdelta?label=xdelta%20downloads&color=brightgreen&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en-patch/releases/latest)
+[![xdelta downloads](https://img.shields.io/github/downloads/Nrlemo/shining-wind-en-patch/beta1/shining-wind-en.xdelta?label=xdelta%20downloads&color=brightgreen&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en-patch/releases/download/beta1/shining-wind-en.xdelta)
 [![Total downloads](https://img.shields.io/github/downloads/Nrlemo/shining-wind-en-patch/total?label=total%20downloads&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en-patch/releases)
 [![Open issues](https://img.shields.io/github/issues/Nrlemo/shining-wind-en-patch?label=issues&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en-patch/issues)
 [![License: GPL-3.0](https://img.shields.io/github/license/Nrlemo/shining-wind-en-patch?cacheSeconds=300)](LICENSE)
