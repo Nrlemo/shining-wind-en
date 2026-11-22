@@ -13,6 +13,10 @@
 
 An English fan translation of **Shining Wind** (SLPM-66671) for the PlayStation 2, distributed as an xdelta patch for your own Japanese dump.
 
+<p align="center">
+  <img src="screenshots/cover.png" width="720" alt="Shining Wind" title="Shining Wind">
+</p>
+
 The goal is to make the game fully playable in English while respecting each character's tone and voice, and keeping text inside its boxes (no cut-off lines, overlaps or broken glyphs). Translation is done from the Japanese original; character and term names follow the official English edition of the anime *Shining Tears X Wind* and the community guide where available, always checked against the Japanese.
 
 **Download:** [Beta 1 (pre-release)](https://github.com/Nrlemo/shining-wind-en-patch/releases/tag/beta1) · [All releases](https://github.com/Nrlemo/shining-wind-en-patch/releases). Beta 1 is a test build: it has been checked only by an automated patch round-trip, not played end to end, and not tested on real hardware.

@@ -15,3 +15,5 @@
 
 # Allowed: the release patch
 !*.xdelta
+# Screenshots of the patched game and the cover are published
+!screenshots/**
