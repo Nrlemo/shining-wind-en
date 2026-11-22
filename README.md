@@ -15,6 +15,7 @@ An English fan translation of **Shining Wind** (SLPM-66671) for the PlayStation 
 
 <p align="center">
   <img src="screenshots/cover.png" width="720" alt="Shining Wind" title="Shining Wind">
+  <br><sub>Cover art: © SEGA / Tony Taka</sub>
 </p>
 
 The goal is to make the game fully playable in English while respecting each character's tone and voice, and keeping text inside its boxes (no cut-off lines, overlaps or broken glyphs). Translation is done from the Japanese original; character and term names follow the official English edition of the anime *Shining Tears X Wind* and the community guide where available, always checked against the Japanese.
@@ -136,6 +137,8 @@ The game stores text in several formats, and many labels live inside graphics. T
 
 ## Project scope and rights
 
-This is an unofficial, non-commercial fan translation. It is not affiliated with or endorsed by SEGA or the original rights holders. No game disc image or console BIOS is provided, and the patch contains only differences; use only game data from a copy you are legally entitled to use. All trademarks and copyrighted material belong to their respective owners. The contents of this repository are licensed under the [GPL-3.0](LICENSE); that license does not cover the game or its assets.
+This is an unofficial, non-commercial fan translation. It is not affiliated with or endorsed by SEGA, Tony Taka, or the original rights holders. No game disc image or console BIOS is provided, and the patch contains only differences; use only game data from a copy you are legally entitled to use. All trademarks and copyrighted material belong to their respective owners. The contents of this repository are licensed under the [GPL-3.0](LICENSE); that license does not cover the game or its assets.
+
+*Shining Wind* and its characters, artwork and logos are © SEGA. The cover image and the game's artwork are by Tony Taka and belong to SEGA and the artist; they are shown here only to identify the game and are not covered by the GPL-3.0. Please support the official releases.
 
 <a href="https://www.buymeacoffee.com/Srwa_en" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;" ></a>
