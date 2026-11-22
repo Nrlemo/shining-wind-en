@@ -22,9 +22,9 @@ The goal is to make the game fully playable in English while respecting each cha
 **Work in progress. There is no playable public build.** Internal test builds exist, but the translation is an unreviewed draft.
 
 - ✅ **Groundwork done:** the game's disc and file formats are understood and the disc can be rebuilt byte for byte; the text has been extracted and counted.
-- ⏳ **Fonts and text renderers:** in progress (2 of 10 tasks done). A Latin variable-width font works in several places; other screens still need work.
+- ✅ **Fonts and text renderers:** a Latin variable-width font (Didact Gothic, 18 and 22 px) with a glyph-width table is installed, and the dialogue renderer and the overlays that draw text use it. The speaker name plate is widened, the phase subtitle and the zone banner are centered, and the Soul Matrix type label and name bar are resized for the English labels. Descriptions and skill names are reflowed or shortened to fit their boxes in pixels.
 - 📝 **Translation:** a first draft covers 99.6 % of the field-script strings (18,565 of 18,633 unique strings; the rest are event identifiers). Tone and consistency have **not** been reviewed, and a few hundred lines are flagged for review. Other parts of the game have their own coverage still to be checked.
-- ⏳ **Text in graphics (menus, labels, banners):** partly started (menu textures, Soul Pieces); 0 of 4 tasks done.
+- ✅ **Text in graphics:** the menu textures are regenerated in English and applied at build time, including labels such as Weapon and Armor in the Equip screen. The Soul Pieces and the Soul Matrix show their names and labels in English.
 - ⏳ **Real PS2 hardware has not been tested.** Testing on hardware is required before any release.
 - ⏳ **Release (verified xdelta + hardware checklist):** not started.
 
