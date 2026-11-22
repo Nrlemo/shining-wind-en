@@ -32,10 +32,10 @@ The goal is to make the game fully playable in English while respecting each cha
 |---|---|---|
 | 0. Environment and recon | Boot in emulator, analyze the executable, inventory the disc | ✅ Done (2026-11-14) |
 | 1. Formats and extraction | Rebuild the Japanese disc byte for byte; inventory all text | ✅ Done (2026-11-15) |
-| 2. Font and text renderers | One scene and one menu fully in English in-game | ⏳ In progress |
-| 3. Translation | 100 % of the text translated and fitted to its boxes | ⏳ In progress (draft) |
-| 4. Reinsertion and graphics | Translate text baked into textures; no residual Japanese | ⏳ Partly started |
-| 5. Build and release | MD5-verified xdelta plus hardware checklist | Not started |
+| 2. Font and text renderers | One scene and one menu fully in English in-game | ✅ Done |
+| 3. Translation | 100 % of the text translated and fitted to its boxes | ✅ Done |
+| 4. Reinsertion and graphics | Translate text baked into textures; no residual Japanese | ✅ Done |
+| 5. Build and release | MD5-verified xdelta plus hardware checklist | ⏳ Beta 1 published (pre-release) |
 
 **Scope.** In scope: dialogue and menu text, plus graphics that contain text. Out of scope: subtitles for voice lines or videos that have no on-screen text.
 
