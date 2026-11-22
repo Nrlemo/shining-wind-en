@@ -1,0 +1,17 @@
+# Game material: never commit
+*.iso
+*.cue
+*.bin
+*.img
+*.cvm
+*.elf
+*.ps2
+*.p2s
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+
+# Allowed: the release patch
+!*.xdelta

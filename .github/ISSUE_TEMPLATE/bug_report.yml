@@ -1,0 +1,34 @@
+name: Bug report
+description: Untranslated Japanese, cut-off or overlapping text, broken glyphs, crashes
+labels: [bug]
+body:
+  - type: input
+    id: build
+    attributes:
+      label: Patch version and patched ISO MD5
+      description: Release tag (or "pre-release build") and the MD5 of your patched ISO
+    validations: {required: true}
+  - type: input
+    id: platform
+    attributes:
+      label: How are you running it?
+      description: PCSX2 (version, renderer) / OPL (how loaded) / real console
+    validations: {required: true}
+  - type: input
+    id: scene
+    attributes:
+      label: Scene or screen
+      description: Chapter, location or menu name
+    validations: {required: true}
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: Attach a screenshot (required for text problems). Do not attach game files.
+    validations: {required: true}
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Was it a new game? Saves made before patching can keep old text.
+    validations: {required: false}
