@@ -2,7 +2,7 @@
 
 ![Platform: PlayStation 2](https://img.shields.io/badge/platform-PlayStation%202-555555)
 ![Translation: Japanese to English](https://img.shields.io/badge/translation-Japanese%20%E2%86%92%20English-blue)
-![Status: work in progress](https://img.shields.io/badge/status-work%20in%20progress%20(draft)-orange)
+![Status: public beta](https://img.shields.io/badge/status-public%20beta%20(work%20in%20progress)-orange)
 ![Font: VWF](https://img.shields.io/badge/font-variable--width%20(VWF)-purple)
 [![Latest release](https://img.shields.io/github/v/release/Nrlemo/shining-wind-en-patch?include_prereleases&label=release&color=yellow&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en-patch/releases)
 [![xdelta downloads](https://img.shields.io/github/downloads/Nrlemo/shining-wind-en-patch/beta1/shining-wind-en.xdelta?label=xdelta%20downloads&color=brightgreen&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en-patch/releases/download/beta1/shining-wind-en.xdelta)
@@ -24,7 +24,7 @@ The goal is to make the game fully playable in English while respecting each cha
 
 ## Project status (as of 2026-11-22)
 
-**Work in progress. There is no playable public build.** Internal test builds exist, but the translation is an unreviewed draft.
+**Work in progress, now in public beta.** [Beta 1](https://github.com/Nrlemo/shining-wind-en-patch/releases/tag/beta1) is available for testing. The translation is still an unreviewed draft, so expect rough edges.
 
 - ✅ **Groundwork done:** the game's disc and file formats are understood and the disc can be rebuilt byte for byte; the text has been extracted and counted.
 - ✅ **Fonts and text renderers:** a Latin variable-width font (Didact Gothic, 18 and 22 px) with a glyph-width table is installed, and the dialogue renderer and the overlays that draw text use it. The speaker name plate is widened, the phase subtitle and the zone banner are centered, and the Soul Matrix type label and name bar are resized for the English labels. Descriptions and skill names are reflowed or shortened to fit their boxes in pixels.
