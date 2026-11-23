@@ -1,5 +1,16 @@
 # Changelog
 
+## RC 2 — 2026-11-23
+
+Release candidate 2 (pre-release). Result ISO MD5 `c46a9bc5f5ce12b5e16d2bfef99ce2c5`; patch `shining-wind-en-rc02.xdelta` (159,074,520 B) MD5 `67ced38b458435a1501793daf68607c6`. Checked by applying the patch to the Japanese ISO (MD5 matches) and in PCSX2; not tested on real hardware.
+
+Changes since RC 1:
+
+- **English subtitles in videos.** Burned into the bottom strip of 11 cutscenes, including the opening (Japanese lyrics, romaji line and English). The video data keeps its original size. Only the opening was played in PCSX2; the other 10 were checked frame by frame.
+- **Battle Report.** The "Remarks" lines and the character names are redrawn with a paper-coloured fill and no dark halo. A faint dotted box around each Remarks fragment remains.
+- **Name plate.** The speaker's name box is back to the original 184 px width.
+- The patch is much larger than RC 1 (about 159 MB) because the videos are re-encoded inside the disc image.
+
 ## RC 1 — 2026-11-23
 
 Release candidate 1 (pre-release). Result ISO MD5 `ff86209cd321161191a55e9c076c0854`; patch `shining-wind-en-rc01.xdelta` (3,791,798 B) MD5 `8705e0637a861c1a40ac3081e8380452`. Checked by applying the patch to the Japanese ISO and comparing the MD5. Not yet verified on real hardware.
@@ -10,7 +21,7 @@ Changes since Beta 1:
 - **Save title in English.** The save name shown in the PS2 memory card browser is now "SHINING WIND". It applies to saves created with this version only.
 - **Battle Report background.** The dark brown blocks behind the "Remarks" lines are gone.
 
-Known issue: the three "Remarks" lines of the Battle Report are drawn hollow with a dotted outline and are hard to read. A fix is in progress.
+Known issue: the three "Remarks" lines of the Battle Report are drawn hollow with a dotted outline and are hard to read (improved in RC 2).
 
 ## Beta 1 — 2026-11-22
 

@@ -2,10 +2,10 @@
 
 ![Platform: PlayStation 2](https://img.shields.io/badge/platform-PlayStation%202-555555)
 ![Translation: Japanese to English](https://img.shields.io/badge/translation-Japanese%20%E2%86%92%20English-blue)
-![Status: release candidate](https://img.shields.io/badge/status-release%20candidate%201-orange)
+![Status: release candidate](https://img.shields.io/badge/status-release%20candidate%202-orange)
 ![Font: VWF](https://img.shields.io/badge/font-variable--width%20(VWF)-purple)
 [![Latest release](https://img.shields.io/github/v/release/Nrlemo/shining-wind-en?include_prereleases&label=release&color=yellow&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en/releases)
-[![xdelta downloads](https://img.shields.io/github/downloads/Nrlemo/shining-wind-en/rc01/shining-wind-en-rc01.xdelta?label=RC%201%20downloads&color=brightgreen&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en/releases/download/rc01/shining-wind-en-rc01.xdelta)
+[![xdelta downloads](https://img.shields.io/github/downloads/Nrlemo/shining-wind-en/rc02/shining-wind-en-rc02.xdelta?label=RC%202%20downloads&color=brightgreen&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en/releases/download/rc02/shining-wind-en-rc02.xdelta)
 [![Total downloads](https://img.shields.io/github/downloads/Nrlemo/shining-wind-en/total?label=total%20downloads&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en/releases)
 [![Open issues](https://img.shields.io/github/issues/Nrlemo/shining-wind-en?label=issues&cacheSeconds=300)](https://github.com/Nrlemo/shining-wind-en/issues)
 [![License: GPL-3.0](https://img.shields.io/github/license/Nrlemo/shining-wind-en?cacheSeconds=300)](LICENSE)
@@ -20,9 +20,9 @@ An English fan translation of **Shining Wind** (SLPM-66671) for the PlayStation 
 
 The goal is a game that reads naturally in English: each character keeps their own tone and voice, and every line fits its box, with no cut-off text, overlaps or broken glyphs. The translation is made from the Japanese original. Character and term names follow the official English edition of the anime *Shining Tears X Wind* and the community guide where available, and are always checked against the Japanese.
 
-**Download:** [**RC 1 (pre-release)**](https://github.com/Nrlemo/shining-wind-en/releases/tag/rc01) · [All releases](https://github.com/Nrlemo/shining-wind-en/releases)
+**Download:** [**RC 2 (pre-release)**](https://github.com/Nrlemo/shining-wind-en/releases/tag/rc02) · [All releases](https://github.com/Nrlemo/shining-wind-en/releases)
 
-> ⚠️ **RC 1 is a test build.** It has been checked in the PCSX2 emulator, but it has not been played end to end and has **not been tested on a real PlayStation 2**. The translation is still an unreviewed draft. Please read the [known issues](#known-issues) before you start.
+> ⚠️ **RC 2 is a test build.** It has been checked in the PCSX2 emulator, but it has not been played end to end and has **not been tested on a real PlayStation 2**. The translation is still an unreviewed draft. Please read the [known issues](#known-issues) before you start.
 
 ## Project status (as of 2026-11-23)
 
@@ -40,13 +40,13 @@ The goal is a game that reads naturally in English: each character keeps their o
 | Font and text rendering | Latin variable-width font in dialogue and menus | 🔧 In progress |
 | Translation | Full English text, fitted to its boxes | 📝 First draft |
 | Graphics | Translate text baked into textures, leave no Japanese behind | 🔧 In progress |
-| Release | Verified xdelta and a real-hardware checklist | ⏳ RC 1 published (pre-release) |
+| Release | Verified xdelta and a real-hardware checklist | ⏳ RC 2 published (pre-release) |
 
-**Scope.** In scope: dialogue, menus and graphics that contain text. Out of scope: subtitles for voice lines or videos that have no on-screen text.
+**Scope.** In scope: dialogue, menus and graphics that contain text. Videos: English subtitles are burned into 11 of the 31 cutscenes (the opening plus 10 more); the other videos are untouched. Out of scope: subtitles for voice lines.
 
 ## Screenshots
 
-Captured on PCSX2 from the Beta 1 build. RC 1 changes only the screens listed in the [changelog](CHANGELOG.md).
+Captured on PCSX2 from the Beta 1 build. Later builds change only the screens listed in the [changelog](CHANGELOG.md). The last three images are from RC 2.
 
 | | |
 |---|---|
@@ -57,6 +57,16 @@ Captured on PCSX2 from the Beta 1 build. RC 1 changes only the screens listed in
 | <img src="screenshots/gallery/19-world-map.png" alt="World Map"><br><sub>World Map</sub> | <img src="screenshots/gallery/20-houmei-talk-menu.png" alt="Houmei: Soul Matrix"><br><sub>Houmei: Soul Matrix</sub> |
 | <img src="screenshots/gallery/22-soul-matrix.png" alt="Soul Matrix"><br><sub>Soul Matrix</sub> | <img src="screenshots/gallery/24-auto-skill.png" alt="Auto Skill"><br><sub>Auto Skill</sub> | <img src="screenshots/gallery/27-field-menu-party.png" alt="Field menu"><br><sub>Field menu</sub> | <img src="screenshots/gallery/28-soul-piece.png" alt="Soul Piece"><br><sub>Soul Piece</sub> |
 | <img src="screenshots/gallery/29-soul-piece-names.png" alt="Soul Piece names"><br><sub>Soul Piece names</sub> | <img src="screenshots/gallery/30-soul-piece-select.png" alt="Soul Piece selection"><br><sub>Soul Piece selection</sub> |
+
+**Video subtitles (RC 2)**
+
+| | |
+|---|---|
+| <img src="screenshots/gallery/31-video-opening-subtitles.png" alt="Opening with subtitles"><br><sub>Opening: Japanese lyrics (original) with the English line burned in below</sub> | <img src="screenshots/gallery/32-video-subtitles.png" alt="Subtitled cutscene"><br><sub>Another subtitled video</sub> |
+
+| | |
+|---|---|
+| <img src="screenshots/gallery/33-battle-report.png" alt="Battle Report"><br><sub>Battle Report (RC 2)</sub> | |
 
 ## Installation
 
@@ -72,7 +82,7 @@ You need **your own copy** of the Japanese game. No game image, BIOS or game dat
 
 **2. Download the patch**
 
-Download `shining-wind-en-rc01.xdelta` from the [RC 1 release](https://github.com/Nrlemo/shining-wind-en/releases/tag/rc01).
+Download `shining-wind-en-rc02.xdelta` from the [RC 2 release](https://github.com/Nrlemo/shining-wind-en/releases/tag/rc02).
 
 **3. Apply the patch**
 
@@ -80,7 +90,7 @@ Download `shining-wind-en-rc01.xdelta` from the [RC 1 release](https://github.co
 - **Linux / macOS (command line):**
 
 ```sh
-xdelta3 -d -s "Shining Wind (Japan).iso" shining-wind-en-rc01.xdelta "Shining Wind (English).iso"
+xdelta3 -d -s "Shining Wind (Japan).iso" shining-wind-en-rc02.xdelta "Shining Wind (English).iso"
 ```
 
 Your original ISO is never modified. The result is about 4 GB, so make sure you have the free space.
@@ -92,8 +102,8 @@ Check the files with any MD5 tool, or with the included helper: `scripts/verify_
 | File | MD5 |
 |---|---|
 | Base: *Shining Wind (Japan)* ISO | `8b8cea857616aa6f189e38a4161f95ba` |
-| Patched ISO (result), RC 1 | `ff86209cd321161191a55e9c076c0854` |
-| `shining-wind-en-rc01.xdelta` (3,791,798 B) | `8705e0637a861c1a40ac3081e8380452` |
+| Patched ISO (result), RC 2 | `c46a9bc5f5ce12b5e16d2bfef99ce2c5` |
+| `shining-wind-en-rc02.xdelta` (159,074,520 B) | `67ced38b458435a1501793daf68607c6` |
 
 If the patched ISO has a different MD5, your base ISO is probably a different dump. See the FAQ.
 
@@ -106,7 +116,8 @@ If the patched ISO has a different MD5, your base ISO is probably a different du
 
 ## Known issues
 
-- **Battle Report, "Remarks":** the three achievement lines (for example "Clear in under 1 min!") are drawn hollow, with a dotted outline, and are hard to read. This is being fixed.
+- **Battle Report, "Remarks":** the three achievement lines (for example "Clear in under 1 min!") are readable now, but each fragment still shows a faint dotted box around it, and the spacing around the numbers ("1 min!", "20 hit!") is uneven.
+- **Video subtitles:** only the opening has been watched in PCSX2. The other 10 subtitled videos were checked frame by frame outside the emulator, not played in the game. The subtitles are a first draft.
 - The translation is a draft: wording, tone and name consistency are unreviewed.
 - Some interface text is baked into textures, so a few screens can still show Japanese or text that does not fit its box.
 - Saves from earlier builds keep their old text; use a new game.
@@ -120,7 +131,7 @@ Helpful details: the patch version, the **MD5 of your patched ISO**, how you ran
 
 ## FAQ
 
-**Can I download the patch now?** Yes. RC 1 is on the Releases page. It is a test build, so expect untranslated or badly fitted text in places.
+**Can I download the patch now?** Yes. RC 2 is on the Releases page. It is a test build, so expect untranslated or badly fitted text in places.
 
 **Do you distribute the ISO?** No, and please do not ask. You need your own legitimate dump.
 
