@@ -50,20 +50,12 @@ Captured on PCSX2 from the Beta 1 build. RC 1 changes only the screens listed in
 
 | | |
 |---|---|
-| <img src="screenshots/gallery/01-title.png" alt="Title screen"><br><sub>Title screen</sub> | <img src="screenshots/gallery/02-title-menu.png" alt="Title menu"><br><sub>Title menu</sub> |
-| <img src="screenshots/gallery/03-narration-lassi.png" alt="Opening narration"><br><sub>Opening narration</sub> | <img src="screenshots/gallery/04-narration-story.png" alt="Opening narration"><br><sub>Opening narration</sub> |
-| <img src="screenshots/gallery/05-narration-adventurers.png" alt="Opening narration"><br><sub>Opening narration</sub> | <img src="screenshots/gallery/06-narration-ending.png" alt="Opening narration"><br><sub>Opening narration</sub> |
-| <img src="screenshots/gallery/07-new-game.png" alt="New Game"><br><sub>New Game</sub> | <img src="screenshots/gallery/08-dream-kiriya.png" alt="Opening dream"><br><sub>Opening dream</sub> |
-| <img src="screenshots/gallery/09-dream-crimson-moon.png" alt="Opening dream"><br><sub>Opening dream</sub> | <img src="screenshots/gallery/10-dialogue-seena.png" alt="Story dialogue"><br><sub>Story dialogue</sub> |
-| <img src="screenshots/gallery/11-dialogue-kiriya.png" alt="Story dialogue"><br><sub>Story dialogue</sub> | <img src="screenshots/gallery/12-dialogue-seena-smack.png" alt="Story dialogue"><br><sub>Story dialogue</sub> |
+| <img src="screenshots/gallery/01-title.png" alt="Title screen"><br><sub>Title screen</sub> | <img src="screenshots/gallery/02-title-menu.png" alt="Title menu"><br><sub>Title menu</sub> | <img src="screenshots/gallery/11-dialogue-kiriya.png" alt="Story dialogue"><br><sub>Story dialogue</sub> | <img src="screenshots/gallery/12-dialogue-seena-smack.png" alt="Story dialogue"><br><sub>Story dialogue</sub> |
 | <img src="screenshots/gallery/13-dialogue-gently.png" alt="Story dialogue"><br><sub>Story dialogue</sub> | <img src="screenshots/gallery/14-load-game.png" alt="Load game"><br><sub>Load game</sub> |
 | <img src="screenshots/gallery/15-field-menu.png" alt="Field menu"><br><sub>Field menu</sub> | <img src="screenshots/gallery/16-items.png" alt="Items"><br><sub>Items</sub> |
 | <img src="screenshots/gallery/17-equip.png" alt="Equip"><br><sub>Equip</sub> | <img src="screenshots/gallery/18-status.png" alt="Status"><br><sub>Status</sub> |
 | <img src="screenshots/gallery/19-world-map.png" alt="World Map"><br><sub>World Map</sub> | <img src="screenshots/gallery/20-houmei-talk-menu.png" alt="Houmei: Soul Matrix"><br><sub>Houmei: Soul Matrix</sub> |
-| <img src="screenshots/gallery/21-soul-matrix-grown.png" alt="Soul Matrix"><br><sub>Soul Matrix</sub> | <img src="screenshots/gallery/22-soul-matrix.png" alt="Soul Matrix"><br><sub>Soul Matrix</sub> |
-| <img src="screenshots/gallery/23-soul-matrix-skills.png" alt="Soul Matrix skills"><br><sub>Soul Matrix skills</sub> | <img src="screenshots/gallery/24-auto-skill.png" alt="Auto Skill"><br><sub>Auto Skill</sub> |
-| <img src="screenshots/gallery/25-auto-skill-connect.png" alt="Auto Skill, connect skills"><br><sub>Auto Skill, connect skills</sub> | <img src="screenshots/gallery/26-soul-matrix-seena.png" alt="Soul Matrix (Seena)"><br><sub>Soul Matrix (Seena)</sub> |
-| <img src="screenshots/gallery/27-field-menu-party.png" alt="Field menu"><br><sub>Field menu</sub> | <img src="screenshots/gallery/28-soul-piece.png" alt="Soul Piece"><br><sub>Soul Piece</sub> |
+| <img src="screenshots/gallery/22-soul-matrix.png" alt="Soul Matrix"><br><sub>Soul Matrix</sub> | <img src="screenshots/gallery/24-auto-skill.png" alt="Auto Skill"><br><sub>Auto Skill</sub> | <img src="screenshots/gallery/27-field-menu-party.png" alt="Field menu"><br><sub>Field menu</sub> | <img src="screenshots/gallery/28-soul-piece.png" alt="Soul Piece"><br><sub>Soul Piece</sub> |
 | <img src="screenshots/gallery/29-soul-piece-names.png" alt="Soul Piece names"><br><sub>Soul Piece names</sub> | <img src="screenshots/gallery/30-soul-piece-select.png" alt="Soul Piece selection"><br><sub>Soul Piece selection</sub> |
 
 ## Installation
