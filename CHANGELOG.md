@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Nothing yet.
+
 ## RC 2 — 2026-11-23
 
 Release candidate 2 (pre-release). Result ISO MD5 `c46a9bc5f5ce12b5e16d2bfef99ce2c5`; patch `shining-wind-en-rc02.xdelta` (159,074,520 B) MD5 `67ced38b458435a1501793daf68607c6`. Checked by applying the patch to the Japanese ISO (MD5 matches) and in PCSX2; not tested on real hardware.
@@ -27,7 +31,8 @@ Known issue: the three "Remarks" lines of the Battle Report are drawn hollow wit
 
 First test build of the patch (pre-release). Result ISO MD5 `2e17a1653ba1088498f8e753c7baed5c`; patch MD5 `0b67d353b8439f499e4e12b6d6a1b040`. Not yet verified on real hardware.
 
-## Unreleased
+Contents:
 
-- Translation is a work in progress (see the project status in the README).
-- This repository only holds documentation and, at release time, the xdelta patch.
+- Draft English translation of the field script, fitted to its boxes with a variable-width Latin font (dialogue, name plate, phase subtitle, zone banner, Soul Matrix labels).
+- Menu textures, Soul Pieces and the Soul Matrix redrawn in English.
+- Known at the time: the translation was an unreviewed draft, some graphics were still in Japanese, and the video, dedication and save-title changes of later builds were not in yet.
