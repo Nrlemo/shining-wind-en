@@ -46,27 +46,26 @@ The goal is a game that reads naturally in English: each character keeps their o
 
 ## Screenshots
 
-Captured on PCSX2 from the Beta 1 build. Later builds change only the screens listed in the [changelog](CHANGELOG.md). The last three images are from RC 2.
+Captured on PCSX2 from the Beta 1 build. Later builds change only the screens listed in the [changelog](CHANGELOG.md).
 
 | | |
 |---|---|
-| <img src="screenshots/gallery/01-title.png" alt="Title screen"><br><sub>Title screen</sub> | <img src="screenshots/gallery/02-title-menu.png" alt="Title menu"><br><sub>Title menu</sub> | <img src="screenshots/gallery/11-dialogue-kiriya.png" alt="Story dialogue"><br><sub>Story dialogue</sub> | <img src="screenshots/gallery/12-dialogue-seena-smack.png" alt="Story dialogue"><br><sub>Story dialogue</sub> |
-| <img src="screenshots/gallery/13-dialogue-gently.png" alt="Story dialogue"><br><sub>Story dialogue</sub> | <img src="screenshots/gallery/14-load-game.png" alt="Load game"><br><sub>Load game</sub> |
-| <img src="screenshots/gallery/15-field-menu.png" alt="Field menu"><br><sub>Field menu</sub> | <img src="screenshots/gallery/16-items.png" alt="Items"><br><sub>Items</sub> |
-| <img src="screenshots/gallery/17-equip.png" alt="Equip"><br><sub>Equip</sub> | <img src="screenshots/gallery/18-status.png" alt="Status"><br><sub>Status</sub> |
-| <img src="screenshots/gallery/19-world-map.png" alt="World Map"><br><sub>World Map</sub> | <img src="screenshots/gallery/20-houmei-talk-menu.png" alt="Houmei: Soul Matrix"><br><sub>Houmei: Soul Matrix</sub> |
-| <img src="screenshots/gallery/22-soul-matrix.png" alt="Soul Matrix"><br><sub>Soul Matrix</sub> | <img src="screenshots/gallery/24-auto-skill.png" alt="Auto Skill"><br><sub>Auto Skill</sub> | <img src="screenshots/gallery/27-field-menu-party.png" alt="Field menu"><br><sub>Field menu</sub> | <img src="screenshots/gallery/28-soul-piece.png" alt="Soul Piece"><br><sub>Soul Piece</sub> |
-| <img src="screenshots/gallery/29-soul-piece-names.png" alt="Soul Piece names"><br><sub>Soul Piece names</sub> | <img src="screenshots/gallery/30-soul-piece-select.png" alt="Soul Piece selection"><br><sub>Soul Piece selection</sub> |
+| <img src="screenshots/gallery/01-title.png" alt="Title screen" width="100%"><br><sub>Title screen</sub> | <img src="screenshots/gallery/02-title-menu.png" alt="Title menu" width="100%"><br><sub>Title menu</sub> |
+| <img src="screenshots/gallery/11-dialogue-kiriya.png" alt="Story dialogue" width="100%"><br><sub>Story dialogue</sub> | <img src="screenshots/gallery/12-dialogue-seena-smack.png" alt="Story dialogue" width="100%"><br><sub>Story dialogue</sub> |
+| <img src="screenshots/gallery/13-dialogue-gently.png" alt="Story dialogue" width="100%"><br><sub>Story dialogue</sub> | <img src="screenshots/gallery/14-load-game.png" alt="Load game" width="100%"><br><sub>Load game</sub> |
+| <img src="screenshots/gallery/15-field-menu.png" alt="Field menu" width="100%"><br><sub>Field menu</sub> | <img src="screenshots/gallery/27-field-menu-party.png" alt="Field menu" width="100%"><br><sub>Field menu</sub> |
+| <img src="screenshots/gallery/16-items.png" alt="Items" width="100%"><br><sub>Items</sub> | <img src="screenshots/gallery/17-equip.png" alt="Equip" width="100%"><br><sub>Equip</sub> |
+| <img src="screenshots/gallery/18-status.png" alt="Status" width="100%"><br><sub>Status</sub> | <img src="screenshots/gallery/19-world-map.png" alt="World Map" width="100%"><br><sub>World Map</sub> |
+| <img src="screenshots/gallery/20-houmei-talk-menu.png" alt="Houmei: Soul Matrix" width="100%"><br><sub>Houmei: Soul Matrix</sub> | <img src="screenshots/gallery/22-soul-matrix.png" alt="Soul Matrix" width="100%"><br><sub>Soul Matrix</sub> |
+| <img src="screenshots/gallery/24-auto-skill.png" alt="Auto Skill" width="100%"><br><sub>Auto Skill</sub> | <img src="screenshots/gallery/28-soul-piece.png" alt="Soul Piece" width="100%"><br><sub>Soul Piece</sub> |
+| <img src="screenshots/gallery/29-soul-piece-names.png" alt="Soul Piece names" width="100%"><br><sub>Soul Piece names</sub> | <img src="screenshots/gallery/30-soul-piece-select.png" alt="Soul Piece selection" width="100%"><br><sub>Soul Piece selection</sub> |
 
-**Video subtitles (RC 2)**
-
-| | |
-|---|---|
-| <img src="screenshots/gallery/31-video-opening-subtitles.png" alt="Opening with subtitles"><br><sub>Opening: Japanese lyrics (original) with the English line burned in below</sub> | <img src="screenshots/gallery/32-video-subtitles.png" alt="Subtitled cutscene"><br><sub>Another subtitled video</sub> |
+**RC 2: video subtitles and Battle Report**
 
 | | |
 |---|---|
-| <img src="screenshots/gallery/33-battle-report.png" alt="Battle Report"><br><sub>Battle Report (RC 2)</sub> | |
+| <img src="screenshots/gallery/31-video-opening-subtitles.png" alt="Opening: Japanese lyrics (original) with the English line burned in below" width="100%"><br><sub>Opening: Japanese lyrics (original) with the English line burned in below</sub> | <img src="screenshots/gallery/32-video-subtitles.png" alt="Another subtitled video" width="100%"><br><sub>Another subtitled video</sub> |
+| <img src="screenshots/gallery/33-battle-report.png" alt="Battle Report (RC 2)" width="100%"><br><sub>Battle Report (RC 2)</sub> |  |
 
 ## Installation
 
