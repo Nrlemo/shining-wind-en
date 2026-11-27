@@ -22,25 +22,25 @@ The goal is a game that reads naturally in English: each character keeps their o
 
 **Download:** [**RC 2 (pre-release)**](https://github.com/Nrlemo/shining-wind-en/releases/tag/rc02) · [All releases](https://github.com/Nrlemo/shining-wind-en/releases)
 
-> ⚠️ **RC 2 is a test build.** It has been checked in the PCSX2 emulator, but it has not been played end to end and has **not been tested on a real PlayStation 2**. The translation is still an unreviewed draft. Please read the [known issues](#known-issues) before you start.
+> ⚠️ **RC 2 is a test build.** It has been checked in the PCSX2 emulator, but it has not been played end to end and has **not been tested on a real PlayStation 2**. Please read the [known issues](#known-issues) before you start.
 
-## Project status (as of 2026-11-23)
+## Project status (as of 2026-11-27)
 
-**Work in progress.** The patch is public and playable in PCSX2, but not finished.
+**Content complete. Release pending.** All the work on the patch is done: formats, fonts and text rendering, translation, graphics and video subtitles. The only open stage is the release: RC 2 is a release candidate and stays that way until players confirm the game runs from start to finish.
 
 - ✅ **Groundwork:** the disc and file formats are understood, and the Japanese disc can be rebuilt byte for byte.
 - ✅ **Fonts and text rendering:** a variable-width Latin font (Didact Gothic, 18 and 22 px) replaces the fixed-width Japanese cells in dialogue, the name plate, the phase subtitle, the zone banner and the Soul Matrix labels. Descriptions and skill names are reflowed or shortened to fit their boxes, measured in pixels.
-- 📝 **Translation:** a first draft covers 99.6 % of the field-script strings (18,565 of 18,633 unique strings; the rest are event identifiers). Tone and consistency are **not reviewed**, and a few hundred lines are flagged for review.
-- 🖼️ **Text inside graphics:** menu textures, Soul Pieces and the Soul Matrix are redrawn in English. A few screens still have untranslated or badly fitted graphics.
-- ⏳ **Real PS2 hardware:** not tested yet. Hardware testing is required before a final release.
+- ✅ **Translation:** complete. It covers 99.6 % of the field-script strings (18,565 of 18,633 unique strings; the rest are event identifiers). Wording and tone will be reviewed with player feedback.
+- ✅ **Text inside graphics and videos:** menu textures, Soul Pieces and the Soul Matrix are redrawn in English, and English subtitles are burned into 11 cutscenes. A few details remain, listed in the [known issues](#known-issues).
+- 🔧 **Release:** RC 2 is published as a pre-release. Hardware testing and a start-to-finish playthrough by users are still pending.
 
-| Stage | Goal | Status |
-|---|---|---|
-| Groundwork | Understand the formats, rebuild the Japanese disc byte for byte, inventory the text | ✅ Done |
-| Font and text rendering | Latin variable-width font in dialogue and menus | 🔧 In progress |
-| Translation | Full English text, fitted to its boxes | 📝 First draft |
-| Graphics | Translate text baked into textures, leave no Japanese behind | 🔧 In progress |
-| Release | Verified xdelta and a real-hardware checklist | ⏳ RC 2 published (pre-release) |
+| Stage | Status |
+|---|---|
+| Groundwork (formats, rebuild of the Japanese disc, text inventory) | ✅ Done |
+| Font and text rendering | ✅ Done |
+| Translation | ✅ Done |
+| Graphics (text in textures, video subtitles) | ✅ Done |
+| Release | 🔧 RC 2 (pre-release): waiting for confirmation that the game runs from start to finish |
 
 **Scope.** In scope: dialogue, menus and graphics that contain text. Videos: English subtitles are burned into 11 of the 31 cutscenes (the opening plus 10 more); the other videos are untouched. Out of scope: subtitles for voice lines.
 
@@ -118,7 +118,7 @@ If the patched ISO has a different MD5, your base ISO is probably a different du
 
 - **Battle Report, "Remarks":** the three achievement lines (for example "Clear in under 1 min!") are readable now, but each fragment still shows a faint dotted box around it, and the spacing around the numbers ("1 min!", "20 hit!") is uneven.
 - **Video subtitles:** only the opening has been watched in PCSX2. The other 10 subtitled videos were checked frame by frame outside the emulator, not played in the game. The subtitles are a first draft.
-- The translation is a draft: wording, tone and name consistency are unreviewed.
+- Wording, tone and name consistency have not had a player review yet; feedback is welcome.
 - Some interface text is baked into textures, so a few screens can still show Japanese or text that does not fit its box.
 - Saves from earlier builds keep their old text; use a new game.
 - Behaviour on real PS2 hardware is unknown.
@@ -137,7 +137,7 @@ Helpful details: the patch version, the **MD5 of your patched ISO**, how you ran
 
 **The patched ISO has a different MD5.** Your base ISO is probably a different dump (another region, a modified or headered image). Use the Japanese release, SLPM-66671.
 
-**Is the translation final?** No. It is a draft that still needs a full review.
+**Is the translation final?** The text is complete, but the release is not: RC 2 stays a release candidate until players confirm the game runs from start to finish. Wording and tone may still change with feedback.
 
 **Why does the second boot screen show a dedication?** The CRIWARE licence screen was replaced by a dedication to Tony Taka and links to this project. That choice is ours, not SEGA's.
 
